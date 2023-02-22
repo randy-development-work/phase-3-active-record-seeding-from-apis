@@ -1,0 +1,16 @@
+current directory: /home/randy/Desktop/Development/code/phase-3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+/usr/share/rvm/rubies/ruby-2.7.4/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.4/lib/ruby/site_ruby/2.7.0 extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /home/randy/Desktop/Development/code/phase-3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230222-380844-16y5yvr sitelibdir\=./.gem.20230222-380844-16y5yvr clean
+
+current directory: /home/randy/Desktop/Development/code/phase-3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230222-380844-16y5yvr sitelibdir\=./.gem.20230222-380844-16y5yvr
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: /home/randy/Desktop/Development/code/phase-3/phase-3-active-record-seeding-from-apis/vendor/bundle/ruby/2.7.0/gems/unf_ext-0.0.7.7/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230222-380844-16y5yvr sitelibdir\=./.gem.20230222-380844-16y5yvr install
+/usr/bin/install -m 0755 unf_ext.so ./.gem.20230222-380844-16y5yvr
